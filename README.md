@@ -2,7 +2,8 @@
 
 ###     Major : Statistics
 ### Sub-Major : Economy, Business administration
-### Now Learn : Developer(AI, AndroidStudio, Java, ... )
+### Now Learn : Developer
+###           : <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 ###      Goal : Project Manager
 
 <!--
