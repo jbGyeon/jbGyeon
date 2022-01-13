@@ -1,4 +1,4 @@
-<h2>Hi there, my name is jbGyeon<h2?
+<h2>Hi there, my name is jbGyeon<h2>
 
 <h3>Major : Statistics</h3>
 <h3>Sub-Major : Economy, Business administration</h3>
