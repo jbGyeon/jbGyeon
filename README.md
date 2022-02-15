@@ -13,11 +13,11 @@
   
   <h3>Hu-star Project</h3>
   <h4>1. What is my fruit?</h4>
-  <h4></h4>
-  <h4>2. NationofAhtelete</h4>
-  <h4></h4>
+  <h4>JetsonNano, PyQt, Inception V3 model based machine learning</h4>
+  <h4>2. NationofExercise</h4>
+  <h4>Android, Firebase based matching service</h4>
   <h4>3. YOGIEDU</h4>
-  <h4></h4>
+  <h4>Spring boot, Jquery based find, scheduling service</h4>
   <h4>4. Safety All</h4>
   <h4></h4>
   <h4>5. ArtFarm</h4>
