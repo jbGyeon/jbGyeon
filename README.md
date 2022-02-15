@@ -10,6 +10,23 @@
 </p>
 <h3>ieetue Probationary Period</h3>
 <h3>Goal : Project/Product Manager</h3>
+  
+  <h3>Hu-star Project</h3>
+  <h4>1. What is my fruit?</h4>
+  <h4></h4>
+  <h4>2. NationofAhtelete</h4>
+  <h4></h4>
+  <h4>3. YOGIEDU</h4>
+  <h4></h4>
+  <h4>4. Safety All</h4>
+  <h4></h4>
+  <h4>5. ArtFarm</h4>
+  <h4></h4>
+  
+  <h3>Ieetue Project</h3>
+  <h4>1. DNA</h4>
+  <h4>1. BlockChain PoC</h4>
+  
 <!--
 **jbGyeon/jbGyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
